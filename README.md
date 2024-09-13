@@ -1,7 +1,7 @@
 # kamerton
 <html>
 <head>
-
+<title>ТГПУ</title>
 </head>
 <body>
 <h1>ТГПУ</h1>
